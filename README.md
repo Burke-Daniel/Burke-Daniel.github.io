@@ -1,3 +1,31 @@
 # Daniel Burke
 ## Senior Computer Engineering Student
 Hi there, I'm Daniel Burke, a fourth-year Computer Engineering Student at Memorial University of Newfoundland, in St. John's, Newfoundland and Labrador, Canada. I am currently living in Ottawa, Ontario working at Nokia Canada as an Embedded Software Developer Co-op student.
+
+### Education
+- I am currently pursuing a B. Eng in Computer Engineering at Memorial University in St. John's, NL, and I will be graduating in April, 2023. My degree has a mandatory Co-op program, and so I have completed four Co-ops, and am currently on my fifth Co-op at Nokia Canada in Ottawa, Ontario.
+- Currently, I have a cumulative 4.0/4.0 GPA, and have been on the Dean's list every semester since I started the degree in 2018
+- I have been fortunate enough to receive numerous scholarships and bursaries thus far in my degree, some of which include:
+  - Paul A. Sacuta Scholarship
+  - Woman's Association of Memorial University of Newfoundland Scholarship
+  - David S. Templeton Scholarship
+  - Chevron Canada Term Scholarship
+  - Gwyn Morgan "Be An Engineer" Bursary in Engineering
+  - Ethel H. Judson Memorial Scholarship
+
+### Work History
+As I said above, my degree contains a mandatory Co-op component, and I have been fortunate to complete four work terms, am currently completing my fifth, and will be available for a sixth Co-op this coming fall (Fall 2022).
+
+Here are the Co-ops that I have complete so far:
+- ExxonMobil Canada, Safety Engineering Co-op Student (May 2019 - Aug 2019)
+  - During the summer semester of my general Engineering first year, I was able to secure a Co-op at ExxonMobil Canada in St. John's, NL, working with their Safety, Security, Health and Environment Team (SSHE). Over the course of the term, I learned a ton about the awesome safety culture that Exxon has on their offshore facilities in Newfoundland, and about how environmenal protection is a priority of theirs. Over the course of the term, I was back-and-forth about deciding what Engineering major to pursue, which I had narrowed down to Mechanical Engineering or Computer Engineering. To me, the decision was between the familiarity of now having experience working in Oil and Gas, and the "generalist" degree that is Mechanical Engineering, or the somewhat unfamiliar but intriguing degree that is Computer Engineering. Since I enjoyed my first-year programming course so much, I decided to take the leap and enter Computer Engineering after completing my term at Exxon, and I haven't looked back since.
+
+- Kraken Robotic Systems Inc., Softare Developer Co-op (Jan 2020 - May 2020)
+  - After completing the first term of my Computer Engineer major, I was extremely fortunate to receive an offer to work at Kraken, a local underwater robotics company in St. John's as a Software Developer Co-op student. This being my first Co-op relating to my major, I was extremely excited to start. The first couple of months of the term were spent learning more about Kraken's software systems, and helping to write up more concrete quality assurance procedures for testing and setting up all of the external sensors and devices that go into Kraken's underwater robotic systems. Just as I felt comfortable in my position, everything changed as COVID-19 lockdowns began in March 2020. This shifted me to working from home, and changed a lot, as any of the physical testing I had been doing was no longer practical. Luckily, I had began to shift to starting to dip my feet into making changes to Kraken's software systems. The main piece of work I accomplished while working from home was changing Kraken's simulation software to more closely resemble the actual system, as I added some configuration to the software to split it into topsides and vehicle side simulation. As well, I got myself more familiar with scripting and Kraken's devops tools, making some changes in Perl to their development environment configuration script. I was lucky enough to extend my term by a week, and secure a return position for my next work term in the fall of 2020.
+
+- Kraken Robotic Systems Inc., Round 2 (Sept 2020 - Dec 2020)
+  - I was super excited to get back to Kraken and continue contributing to their software systems. Since COVID had become more under control in Newfoundland, I was lucky to be able to complete my term in-person. This term I was able to contribute significantly more to Kraken's software systems, and the work I was doing made me feel like a full-time software developer. Some of the main things I accomplished over the course of this term were some smaller changes and bug fixes, including implementing a binary search through a log file to greatly increase the startup time of system playback simulation (from up to 2 minutes, down to less than 5 seconds). The main project I worked on over the course of the term was writing a device interface in C++ to interface with an internally developed battery management system (BMS), integrating the controls and acquisition of data with the utilization of that data within a third-party framework for underwater robotic systems, all in C++. Some challenges I faced when completing this project included having to work within the confines of a third party framework, learning to read through software and hardware documentation in order to implement the Serial interface that the BMS firmware was designed to communicate with, and a lot of debugging using gdb and the Visual studio debugger. Working on a larger scale development task like this allowed me to gain perspecive into how code needs to be easily communicated to others, not only through documentation, but also by making code clean and easy to understand by other developers. I ended up being able to stay an extra couple of days on this work term as well, which was awesome, and again received another return offer for the next work term starting in May 2021. My original plan for my second and final summer work term was to move away from home for the first time, but because COVID was still making everything uncertain at the time, and because of how much I enjoyed my time working at Kraken, I decided to return once again for my third term.
+
+- Kraken Robotic Systems Inc., Round 3 (May 2021 - Aug 2021)
+
+- Nokia Canada, Embedded Software Developer Co-op (Jan 2022 - Present)
