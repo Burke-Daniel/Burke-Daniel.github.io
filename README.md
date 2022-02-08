@@ -2,6 +2,9 @@
 ## Senior Computer Engineering Student
 Hi there, I'm Daniel Burke, a fourth-year Computer Engineering Student at Memorial University of Newfoundland, in St. John's, Newfoundland and Labrador, Canada. I am currently living in Ottawa, Ontario working at Nokia Canada as an Embedded Software Developer Co-op student.
 
+## Links
+- Here's a link to my [Github](https://github.com/Burke-Daniel)
+
 ### Education
 - I am currently pursuing a B. Eng in Computer Engineering at Memorial University in St. John's, NL, and I will be graduating in April, 2023. My degree has a mandatory Co-op program, and so I have completed four Co-ops, and am currently on my fifth Co-op at Nokia Canada in Ottawa, Ontario.
 - Currently, I have a cumulative 4.0/4.0 GPA, and have been on the Dean's list every semester since I started the degree in 2018
