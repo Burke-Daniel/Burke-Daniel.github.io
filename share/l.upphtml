@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang=en class='hack dark-grey container'>
+<html lang=${LANG%%_*} class='hack dark-grey container'>
 
 <title>My website</title>
 
-<meta charset=UTF-8>
+<meta charset=${LANG##*.}>
 <meta name=viewport content='width=device-width, initial-scale=1'>
 
 <link
@@ -18,16 +18,17 @@ href=https://unpkg.com/hack@0.8.1/dist/dark-grey.css>
         <a href=index.html>Home</a>
         <a href=portfolio.html>Portfolio</a>
         <a href=blog.html>Blog</a>
-        <a href=https://github.com/Burke-Daniel>Github</a>
-        <a href=https://www.linkedin.com/in/danielburke97/>Linkedin</a>
+        <a href="https://github.com/Burke-Daniel">Github</a>
+        <a href="https://www.linkedin.com/in/danielburke97/">Linkedin</a>
 	</nav>
 </header>
 
 <style>
+#!
+pp "${SHARE:?no theme directory set}"/s.uppcss
+#!
 </style>
 
-<p>
-    Welcome to my personal site. You'll find links to my Github and Linkedin, a page about
-    me and my professional experience, and a portfolio page showcasing my software projects.
-</p>
-
+#!
+pp "$1"
+#!

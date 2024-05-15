@@ -1,0 +1,4 @@
+#!
+    pandoc --from markdown --to html markdown/portfolio.md
+#!
+
