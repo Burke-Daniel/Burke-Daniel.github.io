@@ -1,0 +1,3 @@
+- Procedural generation of blog posts
+- Make sub pages for portfolio
+- Style images in Atlantica portfolio page so they have some spacing and are centered
