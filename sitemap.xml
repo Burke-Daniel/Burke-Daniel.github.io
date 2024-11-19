@@ -1,18 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
 <url>
-<loc>https://Burke-Daniel.github.io/01_16_2024.html</loc>
-<lastmod>2024-11-18T20:13:47Z</lastmod>
-<priority>1.0</priority>
-</url>
-<url>
-<loc>https://Burke-Daniel.github.io/10_18_2024.html</loc>
-<lastmod>2024-11-18T20:07:03Z</lastmod>
-<priority>1.0</priority>
-</url>
-<url>
 <loc>https://Burke-Daniel.github.io/11_18_2024.html</loc>
-<lastmod>2024-11-18T20:13:47Z</lastmod>
+<lastmod>2024-11-18T20:21:25Z</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
@@ -22,17 +12,17 @@
 </url>
 <url>
 <loc>https://Burke-Daniel.github.io/blog.html</loc>
-<lastmod>2024-11-18T20:13:47Z</lastmod>
+<lastmod>2024-11-18T20:21:25Z</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc>https://Burke-Daniel.github.io/index.html</loc>
-<lastmod>2024-11-18T20:13:47Z</lastmod>
+<lastmod>2024-11-18T20:21:25Z</lastmod>
 <priority>1.0</priority>
 </url>
 <url>
 <loc>https://Burke-Daniel.github.io/portfolio.html</loc>
-<lastmod>2024-11-18T20:13:47Z</lastmod>
+<lastmod>2024-11-18T20:21:25Z</lastmod>
 <priority>1.0</priority>
 </url>
 </urlset>
